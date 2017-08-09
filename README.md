@@ -7,12 +7,12 @@ AspectMock allows you to stub and mock practically anything in your PHP code!
 
 **Documentation** | [Test Doubles Builder](https://github.com/Codeception/AspectMock/blob/master/docs/Test.md) | [ClassProxy](https://github.com/Codeception/AspectMock/blob/master/docs/ClassProxy.md) | [InstanceProxy](https://github.com/Codeception/AspectMock/blob/master/docs/InstanceProxy.md) | [FuncProxy](https://github.com/Codeception/AspectMock/blob/master/docs/FuncProxy.md)
 
-[![Build Status](https://travis-ci.org/Codeception/AspectMock.png?branch=master)](https://travis-ci.org/Codeception/AspectMock)
+[![Build Status](https://travis-ci.org/MinexBank-Development/AspectMock.svg?branch=master)](https://travis-ci.org/MinexBank-Development/AspectMock)
 [![Latest Stable Version](https://poser.pugx.org/codeception/aspect-mock/v/stable.png)](https://packagist.org/packages/codeception/aspect-mock)
 [![Total Downloads](https://poser.pugx.org/codeception/aspect-mock/downloads)](https://packagist.org/packages/codeception/aspect-mock)
 [![Monthly Downloads](https://poser.pugx.org/codeception/aspect-mock/d/monthly)](https://packagist.org/packages/codeception/aspect-mock)
-[![PHP 7 ready](http://php7ready.timesplinter.ch/Codeception/AspectMock/master/badge.svg)](https://packagist.org/packages/codeception/aspect-mock)
-
+[![PHP 7 ready](https://php7ready.timesplinter.ch/MinexBank-Development/AspectMock
+/master/badge.svg)](https://travis-ci.org/MinexBank-Development/AspectMock)
 
 ## Motivation
 
