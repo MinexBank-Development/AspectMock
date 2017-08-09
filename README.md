@@ -12,7 +12,7 @@ AspectMock allows you to stub and mock practically anything in your PHP code!
 [![Total Downloads](https://poser.pugx.org/codeception/aspect-mock/downloads)](https://packagist.org/packages/codeception/aspect-mock)
 [![Monthly Downloads](https://poser.pugx.org/codeception/aspect-mock/d/monthly)](https://packagist.org/packages/codeception/aspect-mock)
 [![PHP 7 ready](https://php7ready.timesplinter.ch/MinexBank-Development/AspectMock
-/master/badge.svg)](https://travis-ci.org/MinexBank-Development/AspectMock)
+/master/badge.svg)](https://travis-ci.org/MinexBank-Development/AspectMock)]
 
 ## Motivation
 
